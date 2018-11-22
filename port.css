@@ -1,0 +1,148 @@
+
+.link{
+   
+    background-color: #333;
+  width: 99%;
+  display: flex;
+  z-index: 1;
+  position: fixed;
+  height: 19%;
+  }
+  .link h3{
+    margin-left: 62%;
+    color: aliceblue;
+  }
+  
+  .link a {
+   
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .link a:hover {
+    background: #ddd;
+    color: black;
+  }
+.bienvenue {
+    font-size:40px;
+    font-style: italic;  
+}
+.p1{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.backg{
+    background-color: black;
+   padding: 20%;
+    text-align:center;
+    color: grey;}
+  .heartbeat{     -webkit-animation: heartbeat 1.5s ease-in-out infinite both;
+                animation: heartbeat 1.5s ease-in-out infinite both;
+    }
+    @-webkit-keyframes heartbeat {
+        from {
+          -webkit-transform: scale(1);
+                  transform: scale(1);
+          -webkit-transform-origin: center center;
+                  transform-origin: center center;
+          -webkit-animation-timing-function: ease-out;
+                  animation-timing-function: ease-out;
+        }
+        10% {
+          -webkit-transform: scale(0.91);
+                  transform: scale(0.91);
+          -webkit-animation-timing-function: ease-in;
+                  animation-timing-function: ease-in;
+        }
+        17% {
+          -webkit-transform: scale(0.98);
+                  transform: scale(0.98);
+          -webkit-animation-timing-function: ease-out;
+                  animation-timing-function: ease-out;
+        }
+        33% {
+          -webkit-transform: scale(0.87);
+                  transform: scale(0.87);
+          -webkit-animation-timing-function: ease-in;
+                  animation-timing-function: ease-in;
+        }
+        45% {
+          -webkit-transform: scale(1);
+                  transform: scale(1);
+          -webkit-animation-timing-function: ease-out;
+                  animation-timing-function: ease-out;
+        }
+      }
+      @keyframes heartbeat {
+        from {
+          -webkit-transform: scale(1);
+                  transform: scale(1);
+          -webkit-transform-origin: center center;
+                  transform-origin: center center;
+          -webkit-animation-timing-function: ease-out;
+                  animation-timing-function: ease-out;
+        }
+        10% {
+          -webkit-transform: scale(0.91);
+                  transform: scale(0.91);
+          -webkit-animation-timing-function: ease-in;
+                  animation-timing-function: ease-in;
+        }
+        17% {
+          -webkit-transform: scale(0.98);
+                  transform: scale(0.98);
+          -webkit-animation-timing-function: ease-out;
+                  animation-timing-function: ease-out;
+        }
+        33% {
+          -webkit-transform: scale(0.87);
+                  transform: scale(0.87);
+          -webkit-animation-timing-function: ease-in;
+                  animation-timing-function: ease-in;
+        }
+        45% {
+          -webkit-transform: scale(1);
+                  transform: scale(1);
+          -webkit-animation-timing-function: ease-out;
+                  animation-timing-function: ease-out;
+        }
+      }
+      
+.image-carousel
+{
+    width: 690px!important;
+    height: 500px!important;
+}
+.designe{
+    width:55%;
+     margin-top:17%; 
+      margin-left:44%;
+}
+.logo-exp{
+    width: 20%;
+    margin-top: 14%;
+}
+.style-contact{
+    background-color: rgb(172, 238, 97);
+    text-align: center;
+}
+.back-copy{
+    background-color: gray
+
+}
+.back-copy p {text-align: center;}
+.logo{
+    text-align: center;
+}
+
+}
+.pulsate-bck{
+    color: rgb(228, 220, 220);
+}
+  
+  
+
